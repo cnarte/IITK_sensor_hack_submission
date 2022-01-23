@@ -6,16 +6,16 @@
   <!-- <a href="https://IITK_sensor_hack_submission.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">IITK_sensor_hack_submission</h1>
+<h1 align="center">IITK sensor hack submission</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/cnarte/IITK_sensor_hack_submission?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/cnarte/IITK_sensor_hack_submission?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cnarte/IITK_sensor_hack_submission?color=56BEB8">
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/cnarte/IITK_sensor_hack_submission?color=56BEB8"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/cnarte/IITK_sensor_hack_submission?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/cnarte/IITK_sensor_hack_submission?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/cnarte/IITK_sensor_hack_submission?color=56BEB8" /> -->
 
