@@ -16,7 +16,7 @@ def process_file(path_test_file):
     y_pred, _ =  autoencoder.detect(X_test, theta = theta , window = 3, average=True)
     df_test["LABEL"] = y_pred
     result  = pd.DataFrame()
-    result["INDEX(TIME_IN_HOURS)"] = df_test["INDEX(TIME_IN_HOURS)"]
+    result["TIME"] = df_test["INDEX(TIME_IN_HOURS)"]
     result["LABEL"] = df_test["LABEL"].apply(lambda x: "ATTACK" if x ==True else "NORMAL" )
 
     result.to_csv("result.csv",index=False)
