@@ -75,10 +75,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 Download the repo directly.
 
 # Unzip the Folder
-$ unzip P1_learners.zip
+$ unzip IITK_sensor_hack_submission.zip
 
 # Access
-$ cd P1_learners
+$ cd IITK_sensor_hack_submission
 
 # Install dependencies
 $ pip install -r requirements.txt
